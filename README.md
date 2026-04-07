@@ -19,6 +19,8 @@ Demonstrar, de forma informativa e acessível, como a pandemia influenciou a pro
 ## 💻 Tecnologias utilizadas
 
 * HTML
+* JS
+* CSS
 
 ---
 
