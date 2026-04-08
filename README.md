@@ -44,4 +44,4 @@ Durante o desenvolvimento deste projeto, foram aplicados conhecimentos como:
 
 ## 👨‍💻 Autor
 
-Fabricio Ramos
+Fabricio Ramos Oliveira
